@@ -1,0 +1,12 @@
+*.pdb
+*.obj
+*.o
+.zig-cache/
+zig-out/
+*.i64
+*.idb
+*.gzf
+*.rep/
+*.gpr
+*.dd64
+*.bak
